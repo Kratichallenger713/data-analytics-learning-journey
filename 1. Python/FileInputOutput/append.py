@@ -1,0 +1,6 @@
+f =open("FileInputOutput/student.txt","a")
+f.write("\npninfosys")
+f.write("\nGwalior")
+f.write("\nMadhya ")
+f.write("Pradesh")
+f.close()

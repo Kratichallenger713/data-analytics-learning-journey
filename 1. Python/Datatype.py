@@ -1,0 +1,21 @@
+# name="kratika"
+# age=25
+# salary=5000.0
+# is_login=True
+# a=2+3j
+# list1=["ram",34,True,23.54]
+# dict1={
+#     "name":"kratika",
+#     "city":"gwalior",
+#     "phone":7587658580
+# }
+
+# print(type(name))
+# print(type(age))
+# print(type(salary))
+# print(type(is_login))
+# print(type(a))
+# print(type(list1))
+# print(type(dict1))
+# print(list1[0])
+# print(dict1[0])
